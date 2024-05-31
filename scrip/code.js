@@ -10,13 +10,15 @@ let numb2;
 
 entry1.addEventListener("change", () =>{
     answer = 150.95 * (+entry1.value)
-   result.innerText =   answer.toFixed(2)
+    numb1 = answer
+    result.innerText =   answer.toFixed(2)
    
 
 })
 
 entry2.addEventListener("change", () =>{
     answer = 180.95 * (+entry2.value)
+    numb2 = answer
     result2.innerText =   answer.toFixed(2)
  
  })

@@ -1,3 +1,4 @@
+/* Chelsea Julie */
 
 body {
     font-family: Arial, Helvetica, sans-serif;
@@ -37,6 +38,7 @@ body {
 
 hr{
     margin-top: 6rem;
+
 }
 .copyright {
     font-size: 90%;
@@ -50,6 +52,7 @@ hr{
 table {
     border: 1px solid black;
     border-collapse: collapse;
+
     & caption {
         font-family: Arial, Helvetica, sans-serif;
         font-weight: bold;
